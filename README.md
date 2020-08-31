@@ -2,13 +2,14 @@
 
 This is a "PONG like" game i made using Python with the PyGame module
 
-## Installation
+## Demonstration
 
-Use package manager to install pygame, such as:
+![Alt Text](https://media.giphy.com/media/PijgROgNxP8jQPA4zL/giphy.gif)
+
+### Important note
+
+Make sure you install the PyGame module, use package manager to install, such as:
 
 ```
 pip install pygame
 ```
-## Demonstration
-
-![Alt Text](https://media.giphy.com/media/PijgROgNxP8jQPA4zL/giphy.gif)
