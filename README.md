@@ -9,4 +9,8 @@ Use package manager to install pygame, such as:
 ```
 pip install pygame
 ```
+## Demonstration
+
+![Gameplay](https://gfycat.com/eminentimpracticalherculesbeetle)
+
 
