@@ -11,6 +11,6 @@ pip install pygame
 ```
 ## Demonstration
 
-![Gameplay](https://gfycat.com/eminentimpracticalherculesbeetle)
+![Gameplay](https://gfycat.com/eminentimpracticalherculesbeetle.gif)
 
 
