@@ -11,6 +11,5 @@ pip install pygame
 ```
 ## Demonstration
 
-![GIF](https://gfycat.com/eminentimpracticalherculesbeetle.gif)
-
+<iframe src="https://giphy.com/embed/PijgROgNxP8jQPA4zL" width="347" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PijgROgNxP8jQPA4zL">via GIPHY</a></p>
 
