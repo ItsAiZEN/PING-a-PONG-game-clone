@@ -11,5 +11,4 @@ pip install pygame
 ```
 ## Demonstration
 
-<iframe src="https://giphy.com/embed/PijgROgNxP8jQPA4zL" width="347" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PijgROgNxP8jQPA4zL">via GIPHY</a></p>
-
+![Alt Text](https://media.giphy.com/media/PijgROgNxP8jQPA4zL/giphy.gif)
