@@ -2,7 +2,7 @@
 
 This is a "PONG like" game i made using Python with the PyGame module
 
-You can find the game on ItsAiZEN.itch.io/Ping as an executable (no need for python or pygame)
+You can find the game on https://ItsAiZEN.itch.io/Ping as an executable (no need for python or pygame)
 
 ## Demonstration
 
