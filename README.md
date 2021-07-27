@@ -8,7 +8,7 @@ You can find the game on https://ItsAiZEN.itch.io/Ping as an executable (no need
 
 ![Alt Text](https://media.giphy.com/media/PijgROgNxP8jQPA4zL/giphy.gif)
 
-### Important note
+#### Important note
 
 Make sure you install the PyGame module, use package manager to install, such as:
 
