@@ -1,6 +1,6 @@
 # PING
 
-A PONG game clone I made using Python with the PyGame module
+A PONG game clone that features "powerups", an "AI" opponent and a dynamic difficulty. Made using Python with the PyGame module
 
 You can find the game on https://ItsAiZEN.itch.io/Ping as an executable (no need for python or pygame)
 
