@@ -1,6 +1,6 @@
 # PING!
 
-This is a "PONG like" game i made using Python with the PyGame module
+A "PONG like" game I made using Python with the PyGame module
 
 You can find the game on https://ItsAiZEN.itch.io/Ping as an executable (no need for python or pygame)
 
