@@ -10,7 +10,7 @@ You can find the game on https://ItsAiZEN.itch.io/Ping as an executable (no need
 
 #### Important note
 
-Make sure you install the PyGame module, use package manager to install, such as:
+Make sure you install the PyGame module, you can use a package manager for installion, such as:
 
 ```
 pip install pygame
