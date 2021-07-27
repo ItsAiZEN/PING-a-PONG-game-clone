@@ -1,6 +1,6 @@
 # PING
 
-A PONG game clone that features "power-ups", an "AI" opponent and a dynamic difficulty (based on the player's score).
+A PONG game clone that features "power-ups", an "AI" opponent, a dynamic difficulty (based on the player's score), menu, background music, sound effects and modern graphics.
 Made using Python with the PyGame module
 
 You can find the game on https://ItsAiZEN.itch.io/Ping as an executable (no need for python or pygame)
